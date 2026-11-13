@@ -1,38 +1,45 @@
-# Oasis Infobyte Data Science Internship
+# Oasis Infobyte – Data Science Internship
 
-This repository contains projects completed as part of my Data Science Internship at Oasis Infobyte.
+Welcome to my **Oasis Infobyte Data Science Internship Projects** repository! This repository showcases the projects I completed during my internship, focusing on Python, Data Analytics, Machine Learning, and Natural Language Processing.
 
-## Task 1: Iris Flower Classification
+## 📂 Projects
 
-**Objective:** To classify Iris flowers into different species using machine learning.
+| No. | Project Name | Domain | 
+|---|---|---|
+| 1 | Iris Flower Classification | Machine Learning |
+| 2 | Unemployment Analysis in India | Data Analytics & EDA |
+| 3 | SMS Spam Detection | Machine Learning & NLP |
 
-**Dataset:** Iris flower dataset.
+## 🛠️ Technologies & Tools
 
-**Models used:**
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-
-**Evaluation Metrics:**
-- Accuracy
-- Macro F1-score
-
-**Results:**
-- Logistic Regression Accuracy: 93.33%
-- Logistic Regression Macro F1-score: 93.33%
-- KNN Accuracy: 93.33%
-- KNN Macro F1-score: 93.27%
-
-**Best-performing model:** Logistic Regression
-
-## Tools and Technologies
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Scikit-learn
+- TF-IDF
 - Google Colab
-- Machine Learning
 
-## About
-This project helped me practice data preprocessing, machine learning model training, and model evaluation.
+## 📚 Key Learnings
 
-More internship projects will be added to this repository as they are completed.
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning Classification
+- Natural Language Processing
+- Model Evaluation
+
+## 👩‍💻 About Me
+
+I am a B.Sc. Computer Science student passionate about Data Science, Machine Learning, and Data Analytics. Through these internship projects, I gained hands-on experience in solving practical problems using Python and machine learning techniques.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [Elakkiya M](https://github.com/elakkiyamuhilan52014-ops)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/elakkiya-m-a454a9313)
+
+
+⭐ Thank you for visiting my repository!
+
+*Learning • Building • Growing in Data Science 🚀
